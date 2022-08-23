@@ -1,3 +1,13 @@
+# Apple Silicon Mac Users
+
+Please switch to the apple-silicon-mps-support and read that Readme.
+
+```
+git clone https://github.com/magnusviri/stable-diffusion.git
+cd stable-diffusion
+git checkout apple-silicon-mps-support
+```
+
 # Stable Diffusion
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
@@ -18,17 +28,6 @@ Similar to Google's [Imagen](https://arxiv.org/abs/2205.11487),
 this model uses a frozen CLIP ViT-L/14 text encoder to condition the model on text prompts.
 With its 860M UNet and 123M text encoder, the model is relatively lightweight and runs on a GPU with at least 10GB VRAM.
 See [this section](#stable-diffusion-v1) below and the [model card](https://huggingface.co/CompVis/stable-diffusion).
-
-
-## Apple Silicon Mac Users
-
-Please switch to the apple-silicon-mps-support and read that Readme.
-
-```
-git clone https://github.com/magnusviri/stable-diffusion.git
-cd stable-diffusion
-git checkout apple-silicon-mps-support
-```
 
 
 ## Requirements
