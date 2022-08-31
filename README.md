@@ -1,1 +1,1 @@
-This repo is being renamed and archived in favor of a fork based on the [lstein](https://github.com/lstein/stable-diffusion) stable-diffusion fork. That fork has so many amazing features you just need to go look for yourself.
+This repo is being renamed and archived in favor of a branch in the [lstein](https://github.com/lstein/stable-diffusion/tree/magnusviri-apple-mps-support) stable-diffusion fork. That fork has so many amazing features you just need to go look for yourself. I'm also going to focus all of the M1 enabling efforts to that branch.
